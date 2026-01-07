@@ -1,7 +1,7 @@
 - Criando POD utilizando aqruivo yaml com "kubectl".
 
 
-```console
+```bash
 felipe3b@FELIPE-G3:~/Descomplicando_Kubernetes$ cd day-1/
 felipe3b@FELIPE-G3:~/Descomplicando_Kubernetes/day-1$ ls -l
 total 8
